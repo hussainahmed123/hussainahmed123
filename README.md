@@ -33,3 +33,7 @@ Welcome to my GitHub profile!
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hussainahmed123&theme=tokyonight)
 
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmed123&layout=compact&theme=tokyonight)
+
