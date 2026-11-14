@@ -35,5 +35,6 @@ Welcome to my GitHub profile!
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmed123&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hussainahmed123&layout=compact&theme=tokyonight)
+
 
