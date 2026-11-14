@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Hussain Ahmed
 
-<!--
-**hussainahmed123/hussainahmed123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student
+- 💻 Interested in Web Development
+- 🌱 Currently learning JavaScript, Node.js and Backend Development
+- 🚀 Building real-world projects
+
+### 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+### 📂 My Projects
+- **Personal Expense Tracker** – A web-based application to manage income and expenses.
+
+### 📫 Connect With Me
+- GitHub: [@hussainahmed123](https://github.com/hussainahmed123)
+
+---
+⭐ Thanks for visiting my profile!
