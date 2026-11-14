@@ -27,3 +27,9 @@ Welcome to my GitHub profile!
 ---
 ⭐ Thanks for visiting my profile!
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussainahmed123&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hussainahmed123&theme=tokyonight)
+
